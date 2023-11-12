@@ -2,7 +2,7 @@
  [Advanceテスト（Readme追加版）.pdf](https://github.com/ozawa1026/coachtechtest/files/13327166/Advance.Readme.pdf)
 
 
-##作成した目的（概要説明(なんで作成したか)）
+## 作成した目的（概要説明(なんで作成したか)）
 個人の意見及び個人情報を管理するため
 
 ## アプリケーションURL
