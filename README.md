@@ -20,7 +20,8 @@
 
 
 ## ER図
-![スクリーンショット 2023-11-12 17 31 48](https://github.com/ozawa1026/coachtechtest/assets/140410912/e8cd6fee-3d3a-41f0-961d-b8bb91520f66)
+![Uploading スクリーンショット 2023-11-12 17.34.47.png…]()
+
 
 
 ## その他
